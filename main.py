@@ -24,4 +24,3 @@ elif number < 7:
     print("Number is lower than seven")
 else:
     print("Both numbers are the same")
-
